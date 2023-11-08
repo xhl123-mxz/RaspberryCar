@@ -1,4 +1,4 @@
-# RaspberryCar
+# 聊城职业技术学院 徐海林
 
 An intelligent car based on Raspberry-Pi-3.
 
